@@ -261,7 +261,7 @@ const Portfolio = () => {
             <Row gutter={[32, 32]} align="middle">
               <Col xs={24} lg={24}>
                 <Paragraph className="about-paragraph">
-                  Hello there! My name is Ankur Anubhav, a Senior Software Engineer offering over five years of driving innovative software solutions to life. 
+                  Hello there! My name is Ankur Anubhav, a Senior Software Engineer offering over half a decade of driving innovative software solutions to life. 
                   I harness the power of strategic thinking and creative problem solving to enable businesses to remain technology-forward and maintain competitive advantages. 
                   I am a lifelong learner who continually updates technical toolkits by embracing emerging technologies and methodologies.
                 </Paragraph>
