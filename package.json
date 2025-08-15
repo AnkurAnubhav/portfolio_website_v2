@@ -2,6 +2,7 @@
   "name": "profolio_website_v2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ankuranubhav.github.io/portfolio_website_v2",
   "dependencies": {
     "@ant-design/icons": "^6.0.0",
     "@fortawesome/fontawesome-free": "^7.0.0",
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
