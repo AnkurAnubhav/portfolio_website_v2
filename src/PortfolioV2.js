@@ -509,15 +509,6 @@ const Portfolio = () => {
 
                       <div className="project-actions">
                         <Button 
-                          type="primary" 
-                          icon={<EyeOutlined />}
-                          href="https://jammming-ankur.netlify.app" 
-                          target="_blank"
-                          className="action-button primary-action"
-                        >
-                          Live Demo
-                        </Button>
-                        <Button 
                           icon={<GithubOutlined />}
                           href="https://github.com/AnkurAnubhav/Jammming.git" 
                           target="_blank"
