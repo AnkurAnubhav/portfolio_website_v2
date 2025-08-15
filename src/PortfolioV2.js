@@ -28,7 +28,6 @@ import {
   ToolOutlined,
   StarOutlined,
   CheckCircleOutlined,
-  EyeOutlined,
   GithubOutlined,
   SoundOutlined
 } from '@ant-design/icons';
